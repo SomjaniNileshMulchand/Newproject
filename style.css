@@ -1,0 +1,30 @@
+.h1{
+    background-color: aquamarine;
+    color: rgb(112, 141, 141);
+}
+.h2{
+    background-color: antiquewhite;
+    color: rgb(180, 180, 135);
+}
+.h3{
+    background-color: bisque;
+    color: rgb(179, 160, 131);
+}
+.h4{
+    background-color: blueviolet;
+    color: rgb(202, 125, 125);
+}
+.h5{
+    background-color: burlywood;
+    color: cadetblue;
+}
+.h6{
+    background-color: chartreuse;
+    color: chocolate;
+}
+div{
+
+    background-color: rgb(156, 197, 233);
+    font-size: 2.5rem;
+    background-position: 2rem;
+}
